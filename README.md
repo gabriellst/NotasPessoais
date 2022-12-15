@@ -1,7 +1,7 @@
-# Personal Notes
-Sharing some notes I've made about the technologies I'm learning.
+# Notas Pessoais
+Compartilhando algumas anotações que faço durante o aprendizado de tecnologias novas.
 
-Including _at the moment_:
+Incluindo _até agora_:
 - [Javascript](Javascript.pdf)
 - [Docker](Docker.pdf)
 - [Kubernetes](Kubernetes.pdf)
@@ -11,8 +11,7 @@ Including _at the moment_:
 - [CSS](CSS.pdf)
 - [NumPy](NumPy.pdf)
 
-It's all written in my native language, brazilian portuguese. **Not the most formal writing though.** 
+Tô compartilhando isso porque pode ser útil para alguém, especialmente nas seções de solução de problemas.
 
-I'm sharing it here because it might be helpful for someone, especially those troubleshooting sections.
+> As notas postadas são as que eu me sinto mais confortável em compartilhar, provavelmente vou colocar mais depois!
 
-> Notes posted are the ones i feel the most comfortable sharing, i might push some more later!
